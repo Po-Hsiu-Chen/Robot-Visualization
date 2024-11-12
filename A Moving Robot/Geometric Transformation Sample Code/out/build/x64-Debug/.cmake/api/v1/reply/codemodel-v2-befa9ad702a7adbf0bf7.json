@@ -1,0 +1,86 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "glut_example",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CarExe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CarExe-Debug-c7dee608b35673be5aa8.json",
+					"name" : "CarExe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CubeExe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CubeExe-Debug-6e6cf8e019ff29b24389.json",
+					"name" : "CubeExe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TemplateExe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TemplateExe-Debug-df85af7bee671b60d64c.json",
+					"name" : "TemplateExe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "WindMillExe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WindMillExe-Debug-335304a04053a689f082.json",
+					"name" : "WindMillExe",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/User/Desktop/大學/電腦圖學/Geometric Transformation Sample Code/out/build/x64-Debug",
+		"source" : "C:/Users/User/Desktop/大學/電腦圖學/Geometric Transformation Sample Code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
