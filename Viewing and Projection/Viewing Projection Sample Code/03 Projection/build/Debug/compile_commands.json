@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/user/Desktop/1101 Computer Graphics/Sample Codes/CMake/03 Projection/build/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.300\\bin\\Hostx64\\x64\\cl.exe  /nologo -IC:\\dev\\vcpkg\\installed\\x64-windows\\include /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\Project.dir\\project.c.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\user\\Desktop\\1101 Computer Graphics\\Sample Codes\\CMake\\03 Projection\\project.c\"",
+  "file": "C:/Users/user/Desktop/1101 Computer Graphics/Sample Codes/CMake/03 Projection/project.c"
+},
+{
+  "directory": "C:/Users/user/Desktop/1101 Computer Graphics/Sample Codes/CMake/03 Projection/build/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.300\\bin\\Hostx64\\x64\\cl.exe  /nologo -IC:\\dev\\vcpkg\\installed\\x64-windows\\include /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\View1.dir\\view1.c.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\user\\Desktop\\1101 Computer Graphics\\Sample Codes\\CMake\\03 Projection\\view1.c\"",
+  "file": "C:/Users/user/Desktop/1101 Computer Graphics/Sample Codes/CMake/03 Projection/view1.c"
+}
+]

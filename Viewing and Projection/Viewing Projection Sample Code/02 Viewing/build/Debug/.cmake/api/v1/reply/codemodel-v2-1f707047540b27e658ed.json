@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "02 Viewing",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Car::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Car-Debug-e145e7d0a0faf223749a.json",
+					"name" : "Car",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NewView::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NewView-Debug-abad4052d0fa04c93b90.json",
+					"name" : "NewView",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "View::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-View-Debug-8ae7686759408d8ce4c5.json",
+					"name" : "View",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "View1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-View1-Debug-b85003a5baf7f10cac34.json",
+					"name" : "View1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/1101 Computer Graphics/Sample Codes/CMake/02 Viewing/build/Debug",
+		"source" : "D:/1101 Computer Graphics/Sample Codes/CMake/02 Viewing"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
