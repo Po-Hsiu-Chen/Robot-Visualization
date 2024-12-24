@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/user/Desktop/SampleCode/04 Shade/build/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -external:IC:\\dev\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\Light.dir\\shade.c.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\user\\Desktop\\SampleCode\\04 Shade\\shade.c\"",
+  "file": "C:\\Users\\user\\Desktop\\SampleCode\\04 Shade\\shade.c"
+}
+]

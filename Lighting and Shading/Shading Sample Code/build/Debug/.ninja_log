@@ -1,0 +1,5 @@
+# ninja log v5
+3	137	6921934287048715	CMakeFiles/Light.dir/light.c.obj	db761b585e5de757
+137	926	6921934289023415	Light.exe	219da12572cabc89
+5	258	6921935387379906	CMakeFiles/Light.dir/shade.c.obj	fafb8bfea9a10a78
+258	951	6921935388446802	Light.exe	7886f3f63cfa8667
